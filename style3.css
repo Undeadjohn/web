@@ -1,0 +1,27 @@
+body {
+	color: white;
+	cursor: default;
+}
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 100px;
+	font-family: arial;
+}
+p {
+	color: gray;
+	text-align: center;
+}
+.sec {
+	color: lightgray;
+	text-align: center;
+	cursor: default;
+}
+button {
+	border: none;
+	background-color: white;
+	font-size: 100px;
+	align-items: center;
+	margin-right: 300px;
+	margin-left: 450px;
+}
